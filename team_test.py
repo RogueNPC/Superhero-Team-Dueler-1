@@ -1,7 +1,7 @@
 import pytest
 import io
 import sys
-import superheroes
+import superheros
 import math
 import random
 
